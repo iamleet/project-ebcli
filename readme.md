@@ -1,3 +1,10 @@
+## Laravel on AWS
+
+*This project was modified to work with AWS and is being used as an example for others to follow*
+
+[Bash City](http://bash.city/blog/post/laravel-on-aws-ebcli)
+## Canvas Read Me
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/cnvs/assets/master/logo.png" width="240">
 </p>
